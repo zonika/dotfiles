@@ -1,0 +1,8 @@
+[user]
+  name = zoe chodosh
+#	email = zchodosh@ZChodosh-MBP.local
+[alias]
+	s = status
+	co = checkout
+[core]
+	editor = vim
